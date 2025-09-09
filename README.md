@@ -4,7 +4,7 @@
 
 #### Лабораторная работа 02 (дедлайн 16.09.2025) ####
 
-задание: </br>
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf </br>
 куда сдать: https://classroom.github.com/a/alycqaUG </br>
  
 
