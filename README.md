@@ -10,6 +10,7 @@
 
 #### Лабораторная работа 01 (дедлайн 09.09.2025) ####
 задание: https://github.com/kpfuse/pr553/blob/main/labs_cpp_2526/lab01_cpp.md</br>
+https://github.com/kpfuse/pr553/blob/main/labs_cpp_2526/lab01_cpp_ind.md </br>
 куда сдать: https://classroom.github.com/a/6iYFHRiY </br>
  
 
