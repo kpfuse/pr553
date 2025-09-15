@@ -3,7 +3,7 @@
 Задание 01. https://github.com/kpfuse/pr553/blob/main/pract01.pdf </br>
 
 
-куда сдать: https://classroom.github.com/a/tg51rqV9 </br?
+куда сдать: https://classroom.github.com/a/tg51rqV9 </br>
 
 
 ### Основы программирования на C++ (лабораторные работы, только для подгруппы 09-553(2)) ### 
