@@ -1,5 +1,9 @@
 # Задания по основам программирования на C++ и ознакомительная практика #
 ### Ознакомительная практика ###
+<img width="1185" height="1185" alt="изображение" src="https://github.com/user-attachments/assets/100139a1-04cf-4f0e-8ef4-39f091a170a7" />
+
+
+
 Задание 01. https://github.com/kpfuse/pr553/blob/main/pract01.pdf </br>
 
 
