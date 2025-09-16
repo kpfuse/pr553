@@ -1,8 +1,5 @@
 # Задания по основам программирования на C++ и ознакомительная практика #
 ### Ознакомительная практика ###
-<img width="1185" height="1185" alt="изображение" src="https://github.com/user-attachments/assets/100139a1-04cf-4f0e-8ef4-39f091a170a7" />
-
-
 
 Задание 01. https://github.com/kpfuse/pr553/blob/main/pract01.pdf </br>
 
@@ -14,7 +11,8 @@
 
 #### Лабораторная работа 02 (дедлайн 16.09.2025) ####
 
-задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf </br>
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf (дедлайн 16.09.2025)</br>
+индивидуальные: (дедлайн 22.09.2025)
 куда сдать: https://classroom.github.com/a/alycqaUG </br>
  
 
