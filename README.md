@@ -2,8 +2,6 @@
 ### Ознакомительная практика ###
 
 Задание 01. https://github.com/kpfuse/pr553/blob/main/pract01.pdf </br>
-
-
 куда сдать: https://classroom.github.com/a/tg51rqV9 </br>
 
 
@@ -11,9 +9,9 @@
 
 #### Лабораторная работа 02 (дедлайн 16.09.2025) ####
 
-задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf (дедлайн 16.09.2025)</br>
-индивидуальные: (дедлайн 22.09.2025)
-куда сдать: https://classroom.github.com/a/alycqaUG </br>
+**задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf (дедлайн 16.09.2025)</br>**
+**индивидуальные: https://github.com/kpfuse/pr553/blob/main/cpp_lab02_ind.pdf (дедлайн 22.09.2025)</br>**
+**куда сдать: https://classroom.github.com/a/alycqaUG </br>**
  
 
 #### Лабораторная работа 01 (дедлайн 09.09.2025) ####
