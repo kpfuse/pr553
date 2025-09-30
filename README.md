@@ -6,12 +6,23 @@
 
 
 ### Основы программирования на C++ (лабораторные работы, только для подгруппы 09-553(2)) ### 
+#### Лабораторная работа 04 (дедлайн 10.10.2025) ####
+
+задание:  (дедлайн 10.10.2025)</br>
+индивидуальные: </br>
+куда сдать:  </br>
+
+#### Лабораторная работа 03 (дедлайн 30.09.2025) ####
+
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab03.pdf (дедлайн 30.09.2025)</br>
+индивидуальные: </br>
+куда сдать: https://classroom.github.com/a/13A_wO-u </br>
 
 #### Лабораторная работа 02 (дедлайн 16.09.2025) ####
 
-**задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf (дедлайн 16.09.2025)</br>**
-**индивидуальные: https://github.com/kpfuse/pr553/blob/main/cpp_lab02_ind.pdf (дедлайн 22.09.2025)</br>**
-**куда сдать: https://classroom.github.com/a/alycqaUG </br>**
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab02.pdf (дедлайн 16.09.2025)</br>
+индивидуальные: https://github.com/kpfuse/pr553/blob/main/cpp_lab02_ind.pdf (дедлайн 22.09.2025)</br>
+куда сдать: https://classroom.github.com/a/alycqaUG </br>
  
 
 #### Лабораторная работа 01 (дедлайн 09.09.2025) ####
