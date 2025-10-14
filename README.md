@@ -9,13 +9,13 @@
 
 #### Лабораторная работа 05 (дедлайн 10.10.2025) ####
 
-задание: </br>
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab05_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B1.pdf </br>
 индивидуальные: </br>
 куда сдать: https://classroom.github.com/a/uvZPE160 </br>
 
 #### Индивидуальные задания 0304 (дедлайн 17.10.2025) ####
 
-задание:  </br>
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab0304_ind.pdf </br>
 куда сдать: https://classroom.github.com/a/pHHYGJBE </br>
 
 #### Лабораторная работа 04 (дедлайн 10.10.2025) ####
