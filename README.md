@@ -12,13 +12,13 @@
 
 #### Лабораторная работа 11 (дедлайн 18.12.2025) ####
 
-задание:  </br>
-куда сдать:  </br>
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab11_string.pdf  </br>
+куда сдать: https://classroom.github.com/a/LLlDY1Bv </br>
 
 #### Лабораторная работа 10 (дедлайн 17.12.2025) ####
 
-задание:  </br>
-куда сдать:   </br>
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab10_C_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8.pdf </br>
+куда сдать: https://classroom.github.com/a/5QWl-aiu  </br>
 
 #### Лабораторная работа 09 (дедлайн 10.11.2025) ####
 
