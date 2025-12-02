@@ -1,7 +1,10 @@
 # Задания по основам программирования на C++ и ознакомительная практика #
 ### Ознакомительная практика ###
+Задание 03. https://github.com/kpfuse/pr553/blob/main/pract03.pdf  </br>
+куда сдать: https://classroom.github.com/a/ipjJSaND </br>
+</hr>
 Задание 02. https://github.com/kpfuse/pr553/blob/main/pract02.pdf </br>
-куда сдать: https://classroom.github.com/a/UU27wkqw </br>
+куда сдать: https://classroom.github.com/a/UU27wkqw </br></br>
 </hr>
 Задание 01. https://github.com/kpfuse/pr553/blob/main/pract01.pdf </br>
 куда сдать: https://classroom.github.com/a/tg51rqV9 </br>
@@ -9,6 +12,16 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ### Основы программирования на C++ (лабораторные работы, только для подгруппы 09-553(2)) ### 
+
+#### Лабораторная работа 15 (дедлайн 08.12.2025) ####
+
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab15_class_rational01.pdf  </br>
+куда сдать: https://classroom.github.com/a/nF9v4YeY </br>
+
+#### Лабораторная работа 14 (дедлайн 02.12.2025) ####
+
+задание: https://github.com/kpfuse/pr553/blob/main/cpp_lab14_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8%20%D0%BD%D0%B0%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.pdf  </br>
+куда сдать: https://classroom.github.com/a/GMwSAWop  </br>
 
 #### Лабораторная работа 13 (дедлайн 01.12.2025) ####
 
